@@ -1,0 +1,9 @@
+"superkillers"
+{
+	"base"		"base"
+	"title"		"Battle Builder"
+	"maps"		"^sk_"
+	"category"	"other"
+	"menusystem"	"1"
+	"workshopid"	"15895"
+}
