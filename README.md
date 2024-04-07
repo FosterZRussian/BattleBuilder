@@ -1,5 +1,5 @@
-# «BattleBuilder» is a Voxel-gamemode concept for Garry's Mod, which was in development from 2022 to 2023. 
-At the moment, its development is frozen, so I want to share my best practices here.  
+# «BattleBuilder» is a Voxel-gamemode concept for Garry's Mod, which was in development from 2021 to 2022. 
+At the moment, its development is frozen, so I want to share my some practices here.  
 
 ## Released 
 – Reading the voxel worlds format (.vxl 0.75) from the Ace Of Spades game directly into the gamemode.  
@@ -8,7 +8,7 @@ At the moment, its development is frozen, so I want to share my best practices h
 – Editing blocks (destruction\creation) with a quick rebuild of the mesh.  
 
 ## In-work
-– A destruction system that cuts off geometry in the air (due to Lua limitations, this task cannot be implemented in real time).  
+– A destruction system that cuts off geometry in the air (due to technical limitations, this task cannot be implemented in real time).  
 – Basic player movement.  
 
 ## Not Released
