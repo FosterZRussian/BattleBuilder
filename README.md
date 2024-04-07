@@ -1,4 +1,4 @@
-# «BattleBuilder» is a Voxel-gamemode concept for Garry's Mod, which was in development from 2022 to 2023. 
+«BattleBuilder» is a Voxel-gamemode concept for Garry's Mod, which was in development from 2022 to 2023. 
 At the moment, its development is frozen, so I want to share my best practices here.
 
 Released 
