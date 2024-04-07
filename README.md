@@ -1,7 +1,7 @@
 # «BattleBuilder» is a Voxel-gamemode concept for Garry's Mod, which was in development from 2022 to 2023. 
 At the moment, its development is frozen, so I want to share my best practices here.
 
-## Released ##
+Released 
 – Reading the voxel worlds format (.vxl 0.75) from the Ace Of Spades game directly into the gamemode.
 – Creation of a game world (512x512x64) on the server side and its synchronization with the client.
 – Blocks and Chunks which consume little RAM (lol).
