@@ -19,11 +19,8 @@ My recommendations:
 — Due to technical limitations, many solutions will have to be improvised, so you probably won't.
 
 <html>
-<head>
-    <title>Some images</title>
-</head>
 <body>
-    <h1>images</h1>
+    <h1>GameMode Screens</h1>
     <div>
         <img src="https://steamuserimages-a.akamaihd.net/ugc/1911233378207744351/DA1D4635B0A9D2C40AE7666CFD9E26D3D1110D8A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image 1">
         <img src="https://steamuserimages-a.akamaihd.net/ugc/1911233378207743646/7FFD4310ECEFF53EFBEA315AEB86F392A0D7FB3C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Image 2">
